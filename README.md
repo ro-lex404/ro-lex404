@@ -1,4 +1,4 @@
-## Hi there, I am Rohan, 👋
+## Hello World! I am Rohan, 👋
 A passionate student of Computer Science.
 Interested in AI/ML and Web Dev.
 <!--
@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ro-lex404)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ro-lex404&show_icons=true&theme=tokyonight" height="150"/>
