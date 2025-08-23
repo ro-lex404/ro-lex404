@@ -30,8 +30,8 @@ Interested in AI/ML and Web Dev.
   <a href="https://www.linkedin.com/in/rohan-alex-bimal-88192a279/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rohanalex135@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://mail.google.com/mail/?view=cm&to=rohanalex135%40gmail.com&su=Hello%20Rohan&body=Hi%20Rohan%2C%0A">
+    <img src="https://img.shields.io/badge/Gmail%20(via%20web)-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email via Gmail Web" />
   </a>
 </div>
 
