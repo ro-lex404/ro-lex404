@@ -13,10 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-<div id="readme" style="display:flex">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ro-lex404&theme=default&show_icons=true&hide_border=true&count_private=true)
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ro-lex404&theme=default&show_icons=true&hide_border=true&layout=compact)
-  ![GitHub Stats](https://streak-stats.demolab.com?user=ro-lex404&theme=default&hide_border=true)
-</div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ro-lex404&theme=default&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ro-lex404&theme=default&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://streak-stats.demolab.com?user=ro-lex404&theme=default&hide_border=true)
+-->
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ro-lex404&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ro-lex404&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://streak-stats.demolab.com?user=ro-lex404&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
