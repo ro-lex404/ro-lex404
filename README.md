@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there, I am Rohan, 👋
+A passionate student of Computer Science.
+Interested in AI/ML.
 <!--
 **ro-lex404/ro-lex404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ro-lex404&show_icons=true&theme=tokyonight" height="150"/>
