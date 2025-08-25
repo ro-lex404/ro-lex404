@@ -45,7 +45,7 @@ Interested in AI/ML and Web Dev.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ro-lex404&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=ro-lex404&theme=tokyonight&hide_border=true" height="150"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ro-lex404&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
