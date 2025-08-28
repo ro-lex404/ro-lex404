@@ -26,7 +26,7 @@ Interested in AI/ML and Web Dev.
 ---
 
 <div align="center">
-  <h3>Connect with me</h3>
+  <h3>📫 Connect with me</h3>
   <a href="https://www.linkedin.com/in/rohan-alex-bimal-88192a279/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
