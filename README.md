@@ -1,6 +1,6 @@
 <div align="center">
   <b>Hello World! I am Rohan 👋</b>
-/n A passionate student of Computer Science.  
+<br> A passionate student of Computer Science.  
 Interested in AI/ML and Web Dev.  
 </div>
 <!--
