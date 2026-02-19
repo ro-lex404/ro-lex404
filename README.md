@@ -1,5 +1,5 @@
 <div align="center">
-  ## Hello World! I am Rohan 👋
+  <b>Hello World! I am Rohan 👋</b>
 A passionate student of Computer Science.  
 Interested in AI/ML and Web Dev.  
 </div>
