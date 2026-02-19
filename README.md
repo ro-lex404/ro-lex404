@@ -47,4 +47,5 @@ Interested in AI/ML and Web Dev.
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-neon-two.vercel.app?user=ro-lex404&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
-"If you want to go fast, go alone. If you want to go far, go together"
+<p align = "center">"If you want to go fast, go alone. If you want to go far, go together"
+</p>
