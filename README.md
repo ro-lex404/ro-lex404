@@ -1,7 +1,8 @@
-## Hello World! I am Rohan 👋  
+<div align="center">
+  ## Hello World! I am Rohan 👋
 A passionate student of Computer Science.  
 Interested in AI/ML and Web Dev.  
-
+</div>
 <!--
 **ro-lex404/ro-lex404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
